@@ -8,6 +8,15 @@
     padding: 10px;
 }
 
+.categorie-navbar{
+    background-color: orange;
+    padding: 10%;
+    border: none;
+    margin-right: 10px; 
+    color: black;
+
+
+}
 h1,p{
     margin-top: 20px;
 }

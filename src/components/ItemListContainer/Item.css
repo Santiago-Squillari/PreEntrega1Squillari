@@ -1,0 +1,14 @@
+.card{
+    width: 200px;
+    border: 2px;
+    border-color: black;
+    background-color: rgb(255, 187, 0);
+    padding: 50px;
+    margin-bottom: 10px;
+}
+
+.item-img{
+    width: 150px;
+    height: 150px;
+    
+}
