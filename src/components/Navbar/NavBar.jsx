@@ -1,14 +1,14 @@
 import React from 'react'
 import CartWidget from './CartWidget'
 import "./navbar.css"
-import ItemListContainer from '../ItemListContainer/ItemListContainer'
 import { Link } from 'react-router-dom'
 
 const NavBar = () => {
   return (
     <nav className="navbar">
-      <Link to="/">
+      <Link to="/" className='mainicon'>
       <img className='icon' src="/img/icon.png"/>
+      <h1 className='title'>Comida.com</h1>
       </Link>
     
       <ul className="categories-navbar">

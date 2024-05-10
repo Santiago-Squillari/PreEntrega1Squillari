@@ -8,7 +8,21 @@
 }
 
 .item-img{
-    width: 150px;
-    height: 150px;
-    
+    width: 50%;
+    height: 50%;    
+}
+
+.price-card{
+    text-align: center;
+    font-size: 150%;
+}
+
+.button-item{
+    background-color: white;
+    border: solid black 0.5px;
+    padding: 5%;
+    margin-left: 25%;
+    text-decoration: none;
+    color: black;
+    border-radius: 6%;
 }
